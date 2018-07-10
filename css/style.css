@@ -1,0 +1,110 @@
+.fas {
+	width: 30px;
+	height: 30px;
+	text-align: center;
+	padding-top: 10px;
+}
+
+.col-lg-8 {
+	margin-top: 2%;
+}
+
+.input-group {
+	width: 80% !important;
+	border: 1px solid lightgrey;
+	border-radius: 4px;
+	padding: 10px;
+	margin-top: 2%;
+}
+
+.input-group-append button{
+	border-radius: 4px !important;
+}
+
+.form-control {
+	border: none !important;
+	border-bottom: 1px solid lightgrey !important;
+}
+
+.label-loc {
+	margin-left: 2%;
+}
+
+.label-loc label {
+
+}
+
+hr {
+	margin-top: 5% !important;
+	margin-bottom: 5% !important;
+}
+
+.media {
+	border: 1px solid lightgrey;
+	padding: 0 !important;
+	margin-left: 0 !important;
+	margin-right: 15px !important;
+	margin-top: 15px !important;
+	border-radius: 4px;
+	float: left;	
+	width: 250px !important;
+}
+
+img {
+	float: left;
+}
+
+.france {
+	padding-top: 10% !important;
+}
+
+.lieux {
+	float: left;
+	margin-left: 0 !important;
+	margin-right: 15px !important;
+}
+
+.loc {
+	margin-top: 2%;
+	border-top: 1px solid lightgrey;
+	padding-top: 2%;
+	margin-left: auto !important;
+	margin-right: auto !important;
+}
+
+.location {
+	padding-left: 20px;
+}
+
+label {
+	display: block;
+}
+
+.button button {
+	width: 170px;
+	height: 270px;
+	text-align: center;
+}
+
+footer {
+	margin-top: 5%;
+	background: lightgrey;
+	height: 50px;
+}
+
+.footer {
+	padding-top: 15px;
+}
+
+.card {
+	float: left;
+	margin-right: 15px;
+}
+
+@media only screen and (max-width: 375px) 
+{
+	.lieux img{
+		width: 50px !important;
+		height: 50px !important;
+	}
+}
